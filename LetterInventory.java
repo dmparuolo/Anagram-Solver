@@ -1,16 +1,3 @@
-/* CS 314 STUDENTS: FILL IN THIS HEADER.
- *
- * Student information for assignment:
- *
- *  On my honor, Dominic Paruolo, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  UTEID: dmp3588
- *  email address: dominicparuolo78@gmail.com
- *  TA name: Nidhi
- *  Number of slip days I am using: 0
- */
-
 public class LetterInventory {
 
 	private int size;
